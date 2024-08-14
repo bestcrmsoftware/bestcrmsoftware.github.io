@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://bestcrmsoftware.github.io/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://bestcrmsoftware.github.io/</loc>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/ownership-funding-information/</loc>
+		<lastmod>2024-08-11T08:11:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/editorial-principles-and-publishing-policies/</loc>
+		<lastmod>2024-08-11T08:13:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/actionable-feedback-policy/</loc>
+		<lastmod>2024-08-11T08:23:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/corrections-policy/</loc>
+		<lastmod>2024-08-11T08:25:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/ethics-policy/</loc>
+		<lastmod>2024-08-11T08:29:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/diversity-staffing-report/</loc>
+		<lastmod>2024-08-11T08:33:29+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://bestcrmsoftware.github.io/diversity-policy/</loc>
+		<lastmod>2024-08-11T08:34:33+00:00</lastmod>
+	</url>
+</urlset>
